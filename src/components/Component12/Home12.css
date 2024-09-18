@@ -1,0 +1,23 @@
+
+.content_component_twelve{
+    position: relative;
+    width: 100%;
+    height: 20rem;
+}
+
+.image_twelve{
+    width: 100%;
+    height: 20rem;
+}
+.content_check{
+    position: absolute;
+    margin: -12rem 6rem;
+    color: white;
+}
+
+.btn_check {
+    position: absolute;
+    color: white;
+    transform: translate(-15rem, 10rem);
+    cursor: pointer;
+}

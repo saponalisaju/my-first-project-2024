@@ -1,0 +1,32 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    text-decoration: none;
+    outline: none;
+}
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background-color: white;
+}
+
+.container {
+    margin: 0;
+    padding: 0;
+    height: 40rem;
+    max-width: 100vw;
+    background-image: url('./Assets/images/1643444.webp'); 
+    background-repeat: no-repeat;
+}
+
+.main_content{
+    margin: 0;
+    padding: 0;
+    height: 40rem;
+    max-width: 100vw;
+    background-color: rgba(70, 65, 65, 0.241);  
+}

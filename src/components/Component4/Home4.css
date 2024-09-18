@@ -1,0 +1,34 @@
+.main-three{
+    background-color: antiquewhite;
+}
+.w-100{
+    width: 100%;
+    height: 300px;
+}
+.my-image_1 img{
+    width: 18rem;
+    height: 13rem;
+   
+}
+.my-image_2 img{
+    width: 18rem;
+    height: 13rem;
+   
+}
+
+.flag_img1 img{
+    width: 10rem;
+    height: 6rem;
+    margin: 0.5rem;
+    /* padding: 0.5rem; */
+    box-shadow: 4px 6px 8px rgb(107, 100, 100);
+
+}
+
+.main-four h1{
+    font-weight: 100;
+}
+.main-four p{
+    font-weight: bold;
+    
+}

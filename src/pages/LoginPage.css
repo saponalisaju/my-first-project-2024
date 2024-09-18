@@ -1,0 +1,26 @@
+.form_control_login_page {
+    width: 20rem;
+   
+}
+.image_login {
+    width: 40rem;
+    height: 22rem;
+    
+}
+.input_name, .input_password {
+    border: none;
+    
+}
+
+/* .form_control_email {
+    width: 20rem;
+    height: 6rem;
+} */
+/* .image_login_page {
+    width: 100%;
+    height: auto;
+    
+} */
+/* .login_page {
+    background-color: black;
+} */

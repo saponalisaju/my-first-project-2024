@@ -1,0 +1,33 @@
+.component_fifteen {
+    max-width: 100vw;
+    height: 29rem;
+}
+
+.application_process {
+    font-size: 4rem;
+    background-color: rgb(148, 205, 223);
+    max-width: 100vw;
+    height: 15rem;
+    position: relative;
+}
+
+.main_content_item {
+    box-shadow: 1rem 1rem 1.2rem rgba(119, 121, 143, 0.363);
+    background-color: white;
+    margin: -3rem 0 0 8rem; 
+}
+
+.processing_item_one, .processing_item_two, 
+.processing_item_three, .processing_item_four {
+    font-size: 1.4rem;
+    border: 1px solid rgba(235, 156, 156, 0.514);
+    width: 15rem;
+}
+
+.background_page {
+    max-width: 100vw;
+    height: 30rem;
+}
+.copyright {
+    margin: 40rem 0 0 30rem;
+}

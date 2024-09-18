@@ -1,0 +1,74 @@
+
+ .navbar{
+    width: 100%;
+    height: 14vh;
+ }   
+
+nav a {
+    text-decoration: none;
+    padding: 1rem;
+    color:burlywood;
+}
+nav a.active {
+    color: rgb(51, 153, 131);
+    text-decoration: underline;
+    
+}
+nav a:hover {
+    color: rgb(51, 153, 131);
+    text-decoration: underline;
+    transition: 0.5;
+}
+
+nav .image_logo {
+    width: 10rem;
+    margin-right: 38rem;
+    border-radius: 20%;
+}
+
+.button .btnCheck{
+    background-color: green;
+}
+.button .btnCheck:hover{
+    background-color: orange;
+    transition: .5s;
+}
+.button .btnLogin:hover{
+    background-color: orange;
+    transition: .5s;
+}
+
+
+ .main-one h1{
+    font-family: serif;
+    font-weight: bold;
+    width: 45%;
+   margin: 10% 0 0 25%;
+    color: #ffffff;
+    font-size: 3.3rem;
+}
+ .main-one h4{
+   width: 70%;
+    font-size: 1.5rem;
+    margin: 3% 0 0 13%;
+    
+}
+ .main-one .button{
+   margin-top: 1rem;
+    
+}
+
+ .main-one .button a{
+  text-decoration: none;
+  color:#ffffff; 
+    
+}
+.activenav {
+    background-color: white;
+    box-shadow: 1px 1px 0 grey;
+    top: 0;
+    left: 0;
+    position: fixed;
+    transition: 0.8s;
+    
+}
